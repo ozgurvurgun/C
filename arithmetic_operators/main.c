@@ -26,9 +26,12 @@ int main()
     number -= 2; //number = number - 2
     number *= 2; //number = number * 2
     number /= 2; //number = number / 2
+    number %= 2; //number = number % 2 //mod
 
+    int i = 1;
+    i++;  //increment // i = i + 1
+    i--;  //decrement // i = i - 1
 
-    result = 34 % 10; //mod
 
 
 }
