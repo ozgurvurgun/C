@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693817118 source:c:\users\vurgu\desktop\c projects\digit_adder\main.c
+	<stdio.h>
+	<stdlib.h>
+
