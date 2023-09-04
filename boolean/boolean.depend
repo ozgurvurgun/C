@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1693791681 source:c:\users\vurgu\desktop\c projects\boolean\main.c
+	<stdbool.h>
+
