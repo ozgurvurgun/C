@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693935120 source:c:\users\vurgu\desktop\c projects\switch_case\main.c
+	<stdio.h>
+	<stdlib.h>
+
