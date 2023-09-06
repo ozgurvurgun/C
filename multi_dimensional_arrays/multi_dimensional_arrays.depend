@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694036251 source:c:\users\vurgu\desktop\c projects\multi_dimensional_arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
