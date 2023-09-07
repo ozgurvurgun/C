@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694110490 source:c:\users\vurgu\desktop\c projects\header_files\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+
+1694110459 source:c:\users\vurgu\desktop\c projects\header_files\test.c
+	"test.h"
+
+1694110476 c:\users\vurgu\desktop\c projects\header_files\test.h
+
