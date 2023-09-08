@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694132462 source:c:\users\vurgu\desktop\c projects\pointers\main.c
+	<stdio.h>
+	<stdlib.h>
+
